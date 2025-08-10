@@ -1,14 +1,10 @@
 {
   "api": {
     "gexbot_url": "https://www.gexbot.com/orderflow",
-    "gexbot_key": "REPLACE_WITH_YOUR_KEY"
+    "gexbot_key": "gF6onno057e1"
   },
-  "instrument": {
-    "ticker": "SPX->ES"
-  },
-  "poll": {
-    "interval_sec": 5
-  },
+  "instrument": { "ticker": "SPX->ES" },
+  "poll": { "interval_sec": 5 },
   "io": {
     "charts_dir": "charts",
     "data_dir": "data",
